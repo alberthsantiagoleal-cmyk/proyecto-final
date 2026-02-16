@@ -385,7 +385,6 @@ Proyecto educativo - Uso libre para aprendizaje
 - [x] Documento README.md con instrucciones de ejecución
 - [x] Carpeta de pruebas con casos de entrada y salida
 - [x] Sistema de validaciones completo
-- [x] Documento de validaciones explicadas (VALIDACIONES_COMPLETAS.md)
 
 ---
 
