@@ -390,3 +390,5 @@ Proyecto educativo - Uso libre para aprendizaje
 
 **Versión**: 3.0 (con validaciones completas)  
 **Última actualización**: Febrero 2026
+
+CODIGO VIDEO EXPLICACION: https://drive.google.com/file/d/1ffwzzSJbjXKCSkxW5xTDPaiJonvgWOV1/view?usp=drive_link
